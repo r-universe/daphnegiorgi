@@ -5,6 +5,9 @@
 [submodule "IBMPopSim"]
 	path = IBMPopSim
 	url = https://github.com/daphnegiorgi/ibmpopsim
+[submodule "STARRS"]
+	path = STARRS
+	url = https://github.com/cran/STARRS
 [submodule "ppsbm"]
 	path = ppsbm
 	url = https://github.com/cran/ppsbm
